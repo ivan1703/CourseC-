@@ -1,0 +1,11 @@
+C:\Users\programmer\source\repos\HomeWorkCourse_1\HomeWorkCourse_1\bin\Debug\netcoreapp2.0\HomeWorkCourse_1.deps.json
+C:\Users\programmer\source\repos\HomeWorkCourse_1\HomeWorkCourse_1\bin\Debug\netcoreapp2.0\HomeWorkCourse_1.runtimeconfig.json
+C:\Users\programmer\source\repos\HomeWorkCourse_1\HomeWorkCourse_1\bin\Debug\netcoreapp2.0\HomeWorkCourse_1.runtimeconfig.dev.json
+C:\Users\programmer\source\repos\HomeWorkCourse_1\HomeWorkCourse_1\bin\Debug\netcoreapp2.0\HomeWorkCourse_1.dll
+C:\Users\programmer\source\repos\HomeWorkCourse_1\HomeWorkCourse_1\bin\Debug\netcoreapp2.0\HomeWorkCourse_1.pdb
+C:\Users\programmer\source\repos\HomeWorkCourse_1\HomeWorkCourse_1\obj\Debug\netcoreapp2.0\HomeWorkCourse_1.csprojResolveAssemblyReference.cache
+C:\Users\programmer\source\repos\HomeWorkCourse_1\HomeWorkCourse_1\obj\Debug\netcoreapp2.0\HomeWorkCourse_1.csproj.CoreCompileInputs.cache
+C:\Users\programmer\source\repos\HomeWorkCourse_1\HomeWorkCourse_1\obj\Debug\netcoreapp2.0\HomeWorkCourse_1.AssemblyInfoInputs.cache
+C:\Users\programmer\source\repos\HomeWorkCourse_1\HomeWorkCourse_1\obj\Debug\netcoreapp2.0\HomeWorkCourse_1.AssemblyInfo.cs
+C:\Users\programmer\source\repos\HomeWorkCourse_1\HomeWorkCourse_1\obj\Debug\netcoreapp2.0\HomeWorkCourse_1.dll
+C:\Users\programmer\source\repos\HomeWorkCourse_1\HomeWorkCourse_1\obj\Debug\netcoreapp2.0\HomeWorkCourse_1.pdb
